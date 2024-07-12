@@ -1,8 +1,11 @@
 const accountId=12344
-let acccountEmail ="hrishikes@google.com"
+let accountEmail ="hrishikes@google.com"
 var accountPassword ="1345"
-accountCity ="raiganj"
+ AccountCity ="raiganj"
 
-
+accountEmail="hri@gmail.com"
+accountPassword="1234"
+AccountCity="bengaluru"
 //accountId =2 not allowed
 console.log(accountId);
+console.table([accountEmail,accountPassword,AccountCity])
