@@ -1,2 +1,2 @@
 const buttons = document.querySelectorAll('.button');
-const body = d 
+const body = d  
